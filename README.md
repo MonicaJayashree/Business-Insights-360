@@ -15,21 +15,21 @@ Tech Stacks:
 
 PowerBI Techniques Learned:
 
-Asking the right questions before starting a project
-Creating calculated columns
-Creating measures using the DAX language
-Data modeling
-Using Bookmarks to switch between visuals
-Page navigation with buttons
-Preventing zero division errors using the divide function
-Dynamic titles based on applied filters
-Using KPI indicators
-Conditional formatting of visual values with icons or background colour
-Data validation techniques
-Publishing reports to Power BI services
-Setting up a personal gateway for data auto-refresh
-Creating PowerBi Apps
-Collaborating, managing workspaces, and setting access permissions in Power BI services
+1.Asking the right questions before starting a project
+2.Creating calculated columns
+3.Creating measures using the DAX language
+4.Data modeling
+5.Using Bookmarks to switch between visuals
+6.Page navigation with buttons
+7.Preventing zero division errors using the divide function
+8.Dynamic titles based on applied filters
+9.Using KPI indicators
+10.Conditional formatting of visual values with icons or background colour
+11.Data validation techniques
+12.Publishing reports to Power BI services
+13.Setting up a personal gateway for data auto-refresh
+14.Creating PowerBi Apps
+15.Collaborating, managing workspaces, and setting access permissions in Power BI services
 
 Company Background: AtliQ Hardware sells computers and accessories through retailers and direct distributors worldwide. They recently faced unexpected losses in their American store due to decisions based on surveys, intuition, and limited Excel analysis. To compete better, the company needs to build an analytics team for data-driven insights and decisions.
 
